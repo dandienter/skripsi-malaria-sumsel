@@ -2,6 +2,10 @@
 
 Metode: **Single Exponential Smoothing (SES)**
 
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dandienter/skripsi-malaria-sumsel/blob/master/notebook/ses_malaria_sumsel.ipynb)
+
+Klik badge di atas untuk langsung membuka notebook di Google Colab. Data diambil otomatis dari repo ini, tidak perlu upload manual.
+
 ## Isi repo
 
 | File | Keterangan |
@@ -15,9 +19,8 @@ Metode: **Single Exponential Smoothing (SES)**
 
 ## Cara pakai di Google Colab
 
-1. Buka https://colab.research.google.com, pilih File > Upload notebook, pilih `ses_malaria_sumsel.ipynb`.
-2. Upload juga `malaria_sumsel_tidy.csv` saat diminta di cell ke-2.
-3. Jalankan semua cell berurutan (Runtime > Run all atau Shift+Enter satu per satu).
+1. Klik badge "Buka di Colab" di atas (atau buka https://colab.research.google.com/github/dandienter/skripsi-malaria-sumsel/blob/master/notebook/ses_malaria_sumsel.ipynb).
+2. Jalankan semua cell berurutan (Runtime > Run all atau Shift+Enter satu per satu). Data diambil otomatis, tidak perlu upload.
 
 ## Ringkasan alur
 

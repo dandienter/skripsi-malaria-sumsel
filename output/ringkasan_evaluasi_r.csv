@@ -1,0 +1,18 @@
+"kab","alpha_train","MAE_test","RMSE_test","MSE_test"
+"Kabupaten Ogan Komering Ilir",0.213623,0,0,0
+"Kota Pagar Alam",0,0,0,0
+"Kabupaten OKU Selatan",0.019936,0.0014,0.0014,0
+"Kabupaten Muratara",1e-04,0.046,0.046,0.0021
+"Kabupaten Musi Rawas",1e-04,0.0628,0.0628,0.0039
+"Kabupaten Lahat",1e-04,0.0753,0.0753,0.0057
+"Kabupaten Empat Lawang",1e-04,0.1046,0.1046,0.0109
+"Kota Lubuk Linggau",1e-04,0.049,0.1291,0.0167
+"Kabupaten Ogan Komering Ulu",1e-04,0.088,0.1813,0.0329
+"Kabupaten Muba",1e-04,0.2044,0.2495,0.0623
+"Kota Prabumulih",1e-04,0.0695,0.2858,0.0817
+"Kabupaten Ogan Ilir",1e-04,0.0862,0.3619,0.131
+"Kabupaten OKU Timur",1e-04,0.3975,0.3975,0.158
+"Kabupaten PALI",1e-04,0.7824,0.7824,0.6121
+"Kota Palembang",1e-04,0.5763,0.8435,0.7115
+"Kabupaten Muara Enim",1e-04,0.6975,1.1929,1.4231
+"Kabupaten Banyuasin",1e-04,1.0375,1.5307,2.3432

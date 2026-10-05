@@ -3,8 +3,11 @@
 Metode: **Single Exponential Smoothing (SES)**
 
 [![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dandienter/skripsi-malaria-sumsel/blob/master/notebook/ses_malaria_sumsel.ipynb)
+[![PDF Dokumentasi](https://img.shields.io/badge/PDF-Dokumentasi_Lengkap-d93025?logo=adobeacrobatreader&logoColor=white)](https://github.com/dandienter/skripsi-malaria-sumsel/blob/master/output/Dokumentasi_Analisis_SES_Malaria_Sumsel.pdf)
+[![Data Tidy](https://img.shields.io/badge/CSV-Data_Tidy-2da44e?logo=github&logoColor=white)](https://github.com/dandienter/skripsi-malaria-sumsel/blob/master/data/malaria_sumsel_tidy.csv)
+[![Glosarium](https://img.shields.io/badge/MD-Glosarium-1f6feb?logo=github&logoColor=white)](https://github.com/dandienter/skripsi-malaria-sumsel/blob/master/GLOSARIUM.md)
 
-Klik badge di atas untuk langsung membuka notebook di Google Colab. Data diambil otomatis dari repo ini, tidak perlu upload manual.
+Klik badge di atas untuk langsung membuka notebook di Google Colab, mengunduh PDF dokumentasi, melihat data, atau membaca glosarium. Data diambil otomatis dari repo ini, tidak perlu upload manual.
 
 ## Isi repo
 
